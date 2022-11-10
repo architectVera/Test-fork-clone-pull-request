@@ -12,3 +12,4 @@ i = int(input('Enter i: '))
 j = int(input('Enter j: '))
 d = i if i > j else j
 print(d)
+# it's so hard for me
